@@ -1,0 +1,6 @@
+D:\david\Desktop\自學\程式語言\C#\Construct the rectangle\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+D:\david\Desktop\自學\程式語言\C#\Construct the rectangle\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\david\Desktop\自學\程式語言\C#\Construct the rectangle\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\david\Desktop\自學\程式語言\C#\Construct the rectangle\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\david\Desktop\自學\程式語言\C#\Construct the rectangle\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\david\Desktop\自學\程式語言\C#\Construct the rectangle\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
